@@ -1,4 +1,4 @@
-<img src="https://graph.org/file/cd2b471f3474d69740df5.jpg" alt="logo" target="/blank">
+<img src="https://telegra.ph/file/5ab035116f987b6024735.jpg" alt="logo" target="/blank">
 
 <h1 align="center">
  <b><a href="https://t.me/Madflix_Bots" target="/blank"> File Sharing Bot </a></>
@@ -109,18 +109,11 @@ stats - checking your bot uptime
 
 
 ### ❤️ RESPECTING ❤️
-- [JishuDeveloper](https://github.com/JishuDeveloper)
-- [Madflix Official](https://github.com/jishusinha)
+- [HARIDeveloper](hari_813)
+
 
 ### 😍 BOTS CHANNEL 😍
-- [Madflix Botz](https://t.me/Madflix_Bots)
-- [Jishu Botz](https://t.me/JishuBotz)
+- [HV Botz](https://t.me/hvbots4u)
+- [HV Botz](https://t.me/hvbots4u)
 
-### 💕 CONTACT DEVELOPER 💕
-- [Jishu Developer](https://t.me/JishuDeveloper)
-- [Madflix Official](https://t.me/MadflixOfficials)
 
-### ☕ BUY ME A COFFEE ☕
-- [PayPal](https://paypal.me/jishudeveloper/2.50USD)
-- [PhonePe](https://graph.org/file/6822df5af3a2e80637172.jpg)
-- [UPI](https://graph.org/file/b831109be4acff5c966d2.jpg)
