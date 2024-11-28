@@ -6,17 +6,17 @@ from logging.handlers import RotatingFileHandler
 
 
 BOT_TOKEN = os.environ.get("BOT_TOKEN", "7400218321:AAEszmFIC9rmUqxpLJAI1u-Qz7U9HZZ7ajw")
-API_ID = int(os.environ.get("API_ID", "17822592")
-API_HASH = os.environ.get("API_HASH", "a20b3dbbe07ed695563b4609a3e62012")
+API_ID = int(os.environ.get("API_ID", "7667143")
+API_HASH = os.environ.get("API_HASH", "7a1e1ccdbaad6dff5eb4a84ccca79fd5")
 
 
-OWNER_ID = int(os.environ.get("OWNER_ID", "7003079691"))
-DB_URL = os.environ.get("DB_URL", "mongodb+srv://royalsrikanth140:DgDBkZdr8IEueHsj@cluster0.788gy1y.mongodb.net/?retryWrites=true&w=majority")
-DB_NAME = os.environ.get("DB_NAME", "royalsrikanth140")
+OWNER_ID = int(os.environ.get("OWNER_ID", "5091641518"))
+DB_URL = os.environ.get("DB_URL", "mongodb+srv://Vishnu832:<Dtt5nHudYkrQ_RA>@file.wz9b9.mongodb.net/?retryWrites=true&w=majority&appName=File")
+DB_NAME = os.environ.get("DB_NAME", "Vishnubalaji832")
 
 
-CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1001937695139"))
-FORCE_SUB_CHANNEL = int(os.environ.get("FORCE_SUB_CHANNEL", "-1002075397287"))
+CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "1002380619481"))
+FORCE_SUB_CHANNEL = int(os.environ.get("FORCE_SUB_CHANNEL", "1002323456484"))
 
 
 FILE_AUTO_DELETE = int(os.getenv("FILE_AUTO_DELETE", "600")) # auto delete in seconds
